@@ -56,7 +56,7 @@ def reorder_table(data, column_name):
     return sorted_data
 
 # File path to shopping_trends.csv 
-file_path = r'C:\Users\sina\Desktop\Masters of Appplied Computing\CP 600 Practical Algorithm Design\shopping_trends.csv' 
+file_path = r'C:\Users\sina\Desktop\Masters of Appplied Computing\CP 600 Practical Algorithm Design\shopping_trends.csv' // change to your file path 
 
 # Load the dataset and take a sample of the first 100 rows
 data = load_dataset(file_path)
