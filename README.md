@@ -7,7 +7,7 @@ The solution demonstrates **algorithmic thinking applied to data analytics**.
 
 ## 🧠 Problem Overview
 
-We have been provided with a retail dataset — [Customer Shopping Trends Dataset (Kaggle)](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset) — containing 19 columns with mixed data types (numeric, categorical, and text).  
+We have been provided with a retail dataset - [Customer Shopping Trends Dataset (Kaggle)](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset) — containing 19 columns with mixed data types (numeric, categorical, and text).  
 The task is to:
 
 > “Write a program that sorts the entire dataset based on any column specified by the user.”
@@ -72,7 +72,7 @@ Install dependencies:
 pip install pandas
 ```
 ```bash
-python projectname.py
+python ds-column-sorter.py
 ```
 Sample Input:
 ```bash
